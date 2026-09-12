@@ -1,0 +1,14 @@
+{
+    "name": "payzum/edd-gateway",
+    "description": "Payzum crypto payment gateway for Easy Digital Downloads. Not published to Packagist — vendor/ ships with the plugin.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": ">=8.1",
+        "payzum/payzum-php": "^0.1"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
