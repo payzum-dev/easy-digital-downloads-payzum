@@ -4,7 +4,7 @@ Tags: easy-digital-downloads, edd, cryptocurrency, stablecoin, payment gateway
 Requires at least: 5.6
 Tested up to: 7.1
 Requires PHP: 8.1
-Stable tag: 1.3.0
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -103,6 +103,10 @@ the order status from a webhook would desync the refund ledger — handle refund
 No. Enter your API key and webhook secret and you are live.
 
 == Changelog ==
+
+= 1.3.1 =
+* Plugin URI now points at the plugin's own repository, so it differs from the Author URI as
+  the plugin directory requires. No functional change.
 
 = 1.3.0 =
 * The settled amount and currency are verified against the order before it is completed. A

@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Payzum Crypto & Stablecoin Payments for Easy Digital Downloads
- * Plugin URI:  https://payzum.com
+ * Plugin URI:  https://github.com/payzum-dev/easy-digital-downloads-payzum
  * Description: Accept crypto and stablecoins (USDC/USDT, multi-chain) in EDD with Payzum. Buyers choose the coin on the Payzum checkout. Non-custodial — funds settle to your own wallet.
- * Version:     1.3.0
+ * Version:     1.3.1
  * Author:      Payzum
  * Author URI:  https://payzum.com
  * License:     GPL-2.0-or-later

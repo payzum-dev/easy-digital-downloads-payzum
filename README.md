@@ -40,7 +40,7 @@ custody. No chargebacks, no card networks, no PCI surface.
 ## Installation
 
 **From the release zip (recommended).** Download
-[`payzum-edd-1.3.0.zip`](https://github.com/payzum-dev/easy-digital-downloads-payzum/releases/latest), then in WordPress go to
+[`payzum-edd-1.3.1.zip`](https://github.com/payzum-dev/easy-digital-downloads-payzum/releases/latest), then in WordPress go to
 **Plugins → Add New → Upload Plugin**, pick the zip and activate it (requires Easy Digital Downloads). The archive unpacks to
 `payzum-edd/`, the folder name WordPress expects.
 
